@@ -1,0 +1,14 @@
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.exe
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.deps.json
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.runtimeconfig.json
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.runtimeconfig.dev.json
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.dll
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.pdb
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.csproj.AssemblyReference.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.AssemblyInfoInputs.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.AssemblyInfo.cs
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.dll
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.pdb
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.genruntimeconfig.cache

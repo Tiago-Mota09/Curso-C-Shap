@@ -1,0 +1,10 @@
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\bin\Debug\Curso-C-Sharp.exe.config
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\bin\Debug\Curso-C-Sharp.exe
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\bin\Debug\Curso-C-Sharp.pdb
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso-C-Sharp.csproj.AssemblyReference.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso_C_Sharp.Properties.Resources.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso-C-Sharp.csproj.GenerateResource.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso-C-Sharp.exe
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso-C-Sharp.pdb
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Curso-C-Sharp\obj\Debug\Curso_C_Sharp.F_Principal.resources

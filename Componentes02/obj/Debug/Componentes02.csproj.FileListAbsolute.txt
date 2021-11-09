@@ -1,0 +1,15 @@
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\bin\Debug\Componentes02.exe.config
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\bin\Debug\Componentes02.exe
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\bin\Debug\Componentes02.pdb
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.csproj.AssemblyReference.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.F_Principal.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.Properties.Resources.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.csproj.GenerateResource.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.csproj.CoreCompileInputs.cache
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.exe
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.pdb
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.F_Veiculos.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.F_Checkbox.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.F_ChecketListbox.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.F_filhoCheckbox.resources
+C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\Componentes02\obj\Debug\Componentes02.F_ComboBox.resources
