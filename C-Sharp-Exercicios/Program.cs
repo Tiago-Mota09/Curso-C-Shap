@@ -1976,11 +1976,12 @@ namespace C_Sharp_Exercicios
     //        {
     //            Console.WriteLine("Está na lista");
     //        }
-    //        else{
+    //        else
+    //        {
     //            Console.WriteLine("Não encontrado");
     //        }
     //        carros.CopyTo(carros2, 2);
-    //        foreach(string c in carros2)
+    //        foreach (string c in carros2)
     //        {
     //            Console.WriteLine("Carro: {0}", c);
     //        }
@@ -2094,7 +2095,7 @@ namespace C_Sharp_Exercicios
     //        Console.WriteLine("Tamanho da fila é: {0}", veiculos.Count);
     //        //Console.WriteLine(veiculos[2]);
 
-    //        while(veiculos.Count > 0)
+    //        while (veiculos.Count > 0)
     //        {
     //            Console.WriteLine(veiculos.Dequeue());
     //        }
@@ -2142,13 +2143,230 @@ namespace C_Sharp_Exercicios
     /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=73
     /// 
     ////=======================================================================
-    ////*** Componentes ***  
+    ////*** Componentes ***  ListBox
     ////=======================================================================
     ////Aula72
     ////
     ////
     /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=74
     ///
+    ////=======================================================================
+    ////*** Componentes ***  ListView PT1
+    ////=======================================================================
+    ////Aula73
+    ////ListView = Mostra conteúdo como tabela
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=75
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  ListView PT2
+    ////=======================================================================
+    ////Aula74
+    ////
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=76
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  ListView PT3
+    ////=======================================================================
+    ////Aula75
+    ////
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=77
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  MaskedTextBox
+    ////=======================================================================
+    ////Aula76
+    ////MaskedTextBox = ajuda na construção de padrões como CEP, CPF, RG...
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=78
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  MonthCalendar 
+    ////=======================================================================
+    ////Aula77
+    ////MonthCalendar 
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=79
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  Notifylcon e ContextMenuStrip
+    ////=======================================================================
+    ////Aula78
+    ////Notifylcon e ContextMenuStrip
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=80
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  NumericUpDown
+    ////=======================================================================
+    ////Aula79
+    ////NumericUpDown
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=81
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  PictureBox
+    ////=======================================================================
+    ////Aula80
+    ////PictureBox
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=82
+    ///
+
+
+    ////=======================================================================
+    ////*** Componentes ***  Progressbar
+    ////=======================================================================
+    ////Aula81
+    ////Progressbar
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=83
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  RadioButton
+    ////=======================================================================
+    ////Aula82
+    ////PictureBox
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=84
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  EDITOR DE TEXTO PT-1, PT-2, PT-3, PT-4, PT-5
+    ////=======================================================================
+    ////Aula83
+    ////EDITOR DE TEXTO
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=85
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=86
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=87
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=88
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=89
+    /// 
+    /// 
+    /// 
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  trackbar
+    ////=======================================================================
+    ////Aula88
+    ////trackbar
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=90
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  treeview
+    ////=======================================================================
+    ////Aula89
+    ////PictureBox
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=91
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  Criando Browser
+    ////=======================================================================
+    ////Aula90
+    ////Criando Browser
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=92
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  SplitContainer
+    ////=======================================================================
+    ////Aula91
+    ////SplitContainer
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=93
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  TabControl
+    ////=======================================================================
+    ////Aula92
+    ////TabControl
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=94
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  TableLayoutPanel
+    ////=======================================================================
+    ////Aula93
+    ////TableLayoutPanel
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=95
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  TollStripContainer
+    ////=======================================================================
+    ////Aula94
+    ////TollStripContainer
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=96
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  Componente Backgroundworker
+    ////=======================================================================
+    ////Aula95
+    ////Componente Backgroundworker
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=97
+    ///
+    ////=======================================================================
+    ////*** Componentes *** Componente Timer
+    ////=======================================================================
+    ////Aula96
+    ////Componente Timer
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=98
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  Adicionando SQLite
+    ////=======================================================================
+    ////Aula97
+    ////Adicionando SQLite
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=99
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  Banco de dados e tabelas
+    ////=======================================================================
+    ////Aula98
+    ////Banco de dados e tabelas
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=100
+    ///
+    ////=======================================================================
+    ////*** Componentes *** Classes para funções de Bancos de dados
+    ////=======================================================================
+    ////Aula99
+    ////Classes para funções de Bancos de dados
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=101
+    ///
+    ////=======================================================================
+    ////*** Componentes ***  Formulario de Login PT-1 e PT-2
+    ////=======================================================================
+    ////Aula100
+    ////PictureBox
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=102
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=103
+    ///
+
+    ///CONTINUA ATÉ AULA 130
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
