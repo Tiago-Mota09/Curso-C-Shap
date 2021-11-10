@@ -2101,24 +2101,54 @@ namespace C_Sharp_Exercicios
     //        Console.WriteLine("Tamanho da fila é: {0}", veiculos.Count);
     //    }
     //}
-    //=======================================================================
-    //*** CLASSE E OBJETOS *** QUEUE - Fila
-    //=======================================================================
-    //Aula59
-    //Queue - FILA
-    using System;
-    using System.Collections.Generic;
+    ////=======================================================================
+    ////*** CLASSE E OBJETOS *** QUEUE - Fila
+    ////=======================================================================
+    ////Aula59
+    ////Queue - FILA
+    //using System;
+    //using System.Collections.Generic;
 
-    class Aula59
-    {
-        static void Main()
-        {
+    //class Aula59
+    //{
+    //    static void Main()
+    //    {
 
-        }
-    }
-
-
-
+    //    }
+    //}
+    ////=======================================================================
+    ////*** COMPONENTES *** AULAS 60 a diante
+    ////=======================================================================
+    ////Aula60
+    ////IMPORTANTE para trabalhar com datas e campos correlatos
+    ///
+    /// https://www.youtube.com/watch?v=owySYPEyyYw&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=62
+    /// 
+    ////=======================================================================
+    ////*** COMPONENTES *** DateTimePiker
+    ////=======================================================================
+    ////Aula70
+    ////IMPORTANTE para trabalhar com datas e campos correlatos
+    ///
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=72
+    /// 
+    ////=======================================================================
+    ////*** Componentes ***  LABEL / LINKLABEL
+    ////=======================================================================
+    ////Aula71
+    ////LABEL = IMPORTANTE para Etiquetar um campo
+    ////LABEL = IMPORTANTE para Etiquetar um campo e atribuir um link WEB ou parte de um programa
+    ///
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=73
+    /// 
+    ////=======================================================================
+    ////*** Componentes ***  
+    ////=======================================================================
+    ////Aula72
+    ////
+    ////
+    /// https://www.youtube.com/watch?v=yF2ebi6ubIg&list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi&index=74
+    ///
 
 
 
