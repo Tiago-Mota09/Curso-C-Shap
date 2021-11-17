@@ -2117,6 +2117,7 @@ namespace C_Sharp_Exercicios
 
     //    }
     //}
+
     ////=======================================================================
     ////*** COMPONENTES *** AULAS 60 a diante
     ////=======================================================================
@@ -2509,4 +2510,92 @@ namespace C_Sharp_Exercicios
     //        }
     //    }
     //}
+    //using System;
+
+    //class Program
+    //{
+    //    static void Main()
+    //    {
+    //        //string nome;
+
+    //        string[] nomes = new string[] { "Tiago", "Diego", "Matheus" };
+    //        foreach (string nome in nomes)
+    //        {
+    //            if (nome == "Diego")
+    //                //break;
+    //            Console.WriteLine(nome);
+    //        }
+    //    }
+    //}
+    //using System;
+
+    //class Program
+    //{
+    //    static void Main()
+    //    {
+    //int num1, num2;
+    //int resultado;
+
+    //Console.Write("Digite o 1º número: ");
+    //num1 = int.Parse(Console.ReadLine());
+    //Console.Write("Digite o 2º número: ");
+    //num2 = int.Parse(Console.ReadLine());
+
+    //resultado = num1 + num2;
+    //Console.WriteLine(resultado);
+
+    //        int resultado;
+
+    //        resultado = 1 + 2;
+
+    //        Console.WriteLine(resultado);
+
+    //        int num = 3;
+    //        int numero = 4;
+
+    //        resultado = num + numero;
+
+    //        Console.WriteLine(resultado);
+    //    }
+    //}
+
+    using System;
+
+    namespace Program
+    {
+
+        public static void Main()
+        {
+            string nome = "Tiago";
+            int senha = 123;
+        }
+        public static void Login(string nome, int senha)
+        {
+            Console.WriteLine("========================================");
+            Console.WriteLine("\tQuer entrar na minha festa?");
+            Console.WriteLine("\tEntão faça seu Login");
+            Console.WriteLine("========================================");
+
+
+            Console.WriteLine("\nDigite seu Nome: ");
+            nome(Console.ReadLine());
+
+            Console.WriteLine("\nDigite sua Senha: ");
+            senha(Console.ReadLine());
+
+            if (nome == "Tiago" && senha == 123)
+            {
+                Console.WriteLine("\nBem vindo a Festa, {0}", nome);
+            }
+            else
+            {
+                Console.WriteLine("\nVai pra casa, ninguém te chamou aqui!");
+            }
+        }
+
+    }
+
 }
+
+
+
