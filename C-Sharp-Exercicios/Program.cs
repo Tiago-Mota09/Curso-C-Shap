@@ -2559,43 +2559,109 @@ namespace C_Sharp_Exercicios
     //    }
     //}
 
-    using System;
-
-    namespace Program
-    {
-
-        public static void Main()
-        {
-            string nome = "Tiago";
-            int senha = 123;
-        }
-        public static void Login(string nome, int senha)
-        {
-            Console.WriteLine("========================================");
-            Console.WriteLine("\tQuer entrar na minha festa?");
-            Console.WriteLine("\tEntão faça seu Login");
-            Console.WriteLine("========================================");
+    //using System;
 
 
-            Console.WriteLine("\nDigite seu Nome: ");
-            nome(Console.ReadLine());
+    //class Login
+    //{
+    //    static void Main()
+    //    {
+    //        Console.WriteLine("========================================");
+    //        Console.WriteLine("\tQuer entrar na minha festa?");
+    //        Console.WriteLine("\tEntão faça seu Login");
+    //        Console.WriteLine("========================================");
 
-            Console.WriteLine("\nDigite sua Senha: ");
-            senha(Console.ReadLine());
+    //        Console.WriteLine("\nDigite seu Nome: ");
+    //        string nome =  (Console.ReadLine());
 
-            if (nome == "Tiago" && senha == 123)
-            {
-                Console.WriteLine("\nBem vindo a Festa, {0}", nome);
-            }
-            else
-            {
-                Console.WriteLine("\nVai pra casa, ninguém te chamou aqui!");
-            }
-        }
+    //        Console.WriteLine("\nDigite sua Senha: ");
+    //        int senha = int.Parse(Console.ReadLine());
 
-    }
+    //        login(nome, senha);
+    //    }
+    //    static void login(string nome, int senha)
+    //    {
+    //        if (nome == "Tiago" && senha == 123)
+    //        {
+    //            Console.WriteLine("\nBem vindo a Festa, {0}", nome);
+    //            menu();
+    //        }
+    //        else
+    //        {
+    //            Console.WriteLine("\nVai pra casa, {0}, ninguém te chamou aqui!", nome);
+    //        }
+    //    }
 
+    //    static void menu()
+    //    {
+    //        Console.WriteLine("==============================================");
+
+    //        Console.Write("Escolha seu cardápio:  \n" +
+    //                          "1 - Pão com ovo\n" +
+    //                          "2 - Subtração\n" +
+    //                          "3 - Multiplicação\n" +
+    //                          "sair - Sair do programa\n" 
+    //                        );
+    //        Console.WriteLine("==============================================");
+
+    //        string cardapio = (Console.ReadLine());
+
+    //        switch (cardapio)
+    //        {
+
+    //            case "1":
+    //                Console.WriteLine("Que pobre, pão com ovo? Pediu o mais barato!");
+    //                break;
+    //            case "2 - Arroz queimado":
+    //                Console.WriteLine("Credo, arroz queimado? Que paladar horrível!");
+    //                break;
+    //            case "3":
+    //                Console.WriteLine("Que mal gosto de mer#$@, feijão salgado? affff!");
+    //                break;
+    //            default: 
+    //                Console.WriteLine("Essa opção não existe"); break;
+    //        }
+    //    }
+    //}//============================exrcicio=============================
+    //using System;
+
+    //class Login
+    //{
+    //    static void Main()
+    //    {
+    //        Validar();
+    //    }
+    //    //metodo validar
+    //    static void Validar()
+    //    {
+    //        Console.WriteLine("Insira seu login");
+    //        string login = Console.ReadLine();
+    //        Console.WriteLine("Insira sua senha");
+    //        string senha = Console.ReadLine();
+
+    //        if (login == "Matheus" & senha == "1111")
+    //        {
+    //            Console.WriteLine("Você entrou");
+    //        }
+    //        else
+    //        {
+    //            Console.WriteLine("Você não entrou");
+    //        }
+
+    //    }
+    //}
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
