@@ -12,3 +12,16 @@ C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\
 C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.dll
 C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.pdb
 C:\Users\DELLMINI-EQP106\Desktop\Edesoft-Cursos\C#\C#-Course\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.genruntimeconfig.cache
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.exe
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.deps.json
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.runtimeconfig.json
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.runtimeconfig.dev.json
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.dll
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\bin\Debug\netcoreapp3.1\C-Sharp-Exercicios.pdb
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.csprojAssemblyReference.cache
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.AssemblyInfoInputs.cache
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.AssemblyInfo.cs
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.dll
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.pdb
+C:\Users\Tiago-Mota\Desktop\Cursos\Curso-C-Shap\C-Sharp-Exercicios\obj\Debug\netcoreapp3.1\C-Sharp-Exercicios.genruntimeconfig.cache

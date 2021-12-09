@@ -2355,8 +2355,189 @@ namespace C_Sharp_Exercicios
 
     ///CONTINUA ATÉ AULA 130
 
+    //using System;
+
+    //public class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        int num1;
+    //        int num2;
+    //        int num3;
+    //        int num4;
+
+    //        Console.WriteLine("Informe o 1º número: ");
+    //        num1 = int.Parse(Console.ReadLine());
+
+    //        Console.WriteLine("Informe o 2º número: ");
+    //        num2 = int.Parse(Console.ReadLine());
+
+    //        Console.WriteLine("Informe o 3º número: ");
+    //        num3 = int.Parse(Console.ReadLine());
+
+    //        Console.WriteLine("Informe o 4º número: ");
+    //        num4 = int.Parse(Console.ReadLine());
 
 
+    //        if ((num1 < num2) &&  ( num2 < num3) && (num3 < num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}",num1, num2, num3, num4);
+    //        }
+    //        else if((num1 < num2) && (num2 < num3) && (num3 > num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num1, num2, num4, num3);
+    //        }
+    //        else if ((num1 < num2) && (num2 > num3) && (num3 < num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num1, num3 , num2, num4);
+    //        }
+    //        else if ((num1 < num2) && (num2 < num3) && (num3 < num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num2, num1, num3, num4);
+    //        }
+    //    }
+    //}
+    //using System;
+    //==============================================================================
+    //                  Números ordem Crescente
+    //==============================================================================
+
+    //    public class Program
+    //    {
+    //        static void Main(string[] args)
+    //        {
+    //            int num1;
+    //            int num2;
+    //            int num3;
+    //            int num4;
+
+    //            Console.WriteLine("Informe o 1º número: ");
+    //            num1 = int.Parse(Console.ReadLine());
+
+    //            Console.WriteLine("Informe o 2º número: ");
+    //            num2 = int.Parse(Console.ReadLine());
+
+    //            Console.WriteLine("Informe o 3º número: ");
+    //            num3 = int.Parse(Console.ReadLine());
+
+    //            if (num1 > num2)
+    //            {
+    //                if (num2 > num3) Console.WriteLine($"{num3},{num2},{num1}");
+    //                else if (num1 > num3) Console.WriteLine($"{num2},{num3},{num1}");
+    //                else Console.WriteLine($"{num2},{num1},{num3}");
+    //            }
+    //            else if (num2 > num3)
+    //            {
+    //                if (num1 > num3) Console.WriteLine($"{num3},{num1},{num2}");
+    //                else Console.WriteLine($"{num1},{num3},{num2}");
+    //            }
+    //            else Console.WriteLine($"{num1},{num2},{num3}");
+    //        }
+    //    }
+    //}
+    //using System;
+
+    //public class Program
+    //{
+    //    static void Main(string[] args)
+    //    {
+    //        int num1;
+    //        int num2;
+    //        int num3;
+    //        int num4;
+
+    //        Console.WriteLine("Informe o 1º número: ");
+    //        num1 = int.Parse(Console.ReadLine());
+
+    //        Console.WriteLine("Informe o 2º número: ");
+    //        num2 = int.Parse(Console.ReadLine());
+
+    //        Console.WriteLine("Informe o 3º número: ");
+    //        num3 = int.Parse(Console.ReadLine());
+
+    //        Console.WriteLine("Informe o 4º número: ");
+    //        num4 = int.Parse(Console.ReadLine());
+
+
+    //        if ((num1 < num2) &&  ( num2 < num3) && (num3 < num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}",num1, num2, num3, num4);
+    //        }
+    //        else if((num1 < num2) && (num2 < num3) && (num3 > num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num1, num2, num4, num3);
+    //        }
+    //        else if ((num1 < num2) && (num2 > num3) && (num3 < num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num1, num3 , num2, num4);
+    //        }
+    //        else if ((num1 < num2) && (num2 < num3) && (num3 < num4))
+    //        {
+    //            Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num2, num1, num3, num4);
+    //        }
+    //    }
+    //}
+
+    using System;
+
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            int num1 = 10;
+            int num2 = 20;
+            int num3 = 30;
+            int num4;
+
+            Console.WriteLine("Informe o 4º número: ");
+            num4 = int.Parse(Console.ReadLine());
+
+
+            if (num4 < num1)
+            {
+                Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num4, num1, num2, num3);
+            }
+            else if ((num4 < num3) && ( num4 > num2))
+            {
+                Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num1, num2, num4, num3);
+            }
+            else if ((num4 < num2) && (num4 > num1))
+            {
+                Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}", num1, num4, num2, num3);
+            }
+            else
+            {
+                Console.WriteLine("Valores ordenados: {0}, {1}, {2} e {3}",  num1, num2, num3, num4);
+            }
+        }
+    }
+
+
+    //variáveis;
+
+    //N1,N2: inteiro;
+
+    //Inicio;
+
+    //Escreva("Digite um número inteiro");
+
+    //Leia(N1);
+
+    //Escreva("Digite outro número inteiro diferente do primeiro número digitado");
+
+    //Leia(N2);
+
+    //Se(N1 > N2) então;
+
+    //Imprima("crescente");
+
+    //senão;
+
+    //Imprima("Decrescente");
+
+    //Fimse;
+
+    //Fimalgoritmo.
 
 
 
@@ -2649,8 +2830,8 @@ namespace C_Sharp_Exercicios
     //        }
 
     //    }
-    //}
 }
+
 
 
 
