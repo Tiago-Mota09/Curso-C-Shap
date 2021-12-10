@@ -2747,21 +2747,23 @@ namespace C_Sharp_Exercicios
     //{
     //    static void Main()
     //    {
+
+    //        login();
+    //    }
+    //    static void login()
+    //    {
+
     //        Console.WriteLine("========================================");
     //        Console.WriteLine("\tQuer entrar na minha festa?");
     //        Console.WriteLine("\tEntão faça seu Login");
     //        Console.WriteLine("========================================");
 
     //        Console.WriteLine("\nDigite seu Nome: ");
-    //        string nome =  (Console.ReadLine());
+    //        string nome = (Console.ReadLine());
 
     //        Console.WriteLine("\nDigite sua Senha: ");
     //        int senha = int.Parse(Console.ReadLine());
 
-    //        login(nome, senha);
-    //    }
-    //    static void login(string nome, int senha)
-    //    {
     //        if (nome == "Tiago" && senha == 123)
     //        {
     //            Console.WriteLine("\nBem vindo a Festa, {0}", nome);
@@ -2781,7 +2783,7 @@ namespace C_Sharp_Exercicios
     //                          "1 - Pão com ovo\n" +
     //                          "2 - Subtração\n" +
     //                          "3 - Multiplicação\n" +
-    //                          "sair - Sair do programa\n" 
+    //                          "sair - Sair do programa\n"
     //                        );
     //        Console.WriteLine("==============================================");
 
@@ -2799,11 +2801,76 @@ namespace C_Sharp_Exercicios
     //            case "3":
     //                Console.WriteLine("Que mal gosto de mer#$@, feijão salgado? affff!");
     //                break;
-    //            default: 
+    //            default:
     //                Console.WriteLine("Essa opção não existe"); break;
     //        }
     //    }
-    //}//============================exrcicio=============================
+    //}//============================exercicio=============================
+    //class Login
+    //{
+    //    static void Main()
+    //    {
+    //        Console.WriteLine("========================================");
+    //        Console.WriteLine("\tQuer entrar na minha festa?");
+    //        Console.WriteLine("\tEntão faça seu Login");
+    //        Console.WriteLine("========================================");
+
+    //        Console.WriteLine("\nDigite seu Nome: ");
+    //        string nome = (Console.ReadLine());
+
+    //        Console.WriteLine("\nDigite sua Senha: ");
+    //        int senha = int.Parse(Console.ReadLine());
+
+    //        login(nome, senha);
+    //    }
+    //    static void login(string nome, int senha)
+    //    {
+
+
+
+    //        if (nome == "Tiago" && senha == 123)
+    //        {
+    //            Console.WriteLine("\nBem vindo a Festa, {0}", nome);
+    //            menu();
+    //        }
+    //        else
+    //        {
+    //            Console.WriteLine("\nVai pra casa, {0}, ninguém te chamou aqui!", nome);
+    //        }
+    //    }
+
+    //    static void menu()
+    //    {
+    //        Console.WriteLine("==============================================");
+
+    //        Console.Write("Escolha seu cardápio:  \n" +
+    //                          "1 - Pão com ovo\n" +
+    //                          "2 - Subtração\n" +
+    //                          "3 - Multiplicação\n" +
+    //                          "sair - Sair do programa\n"
+    //                        );
+    //        Console.WriteLine("==============================================");
+
+    //        string cardapio = (Console.ReadLine());
+
+    //        switch (cardapio)
+    //        
+
+    //            case "1":
+    //                Console.WriteLine("Que pobre, pão com ovo? Pediu o mais barato!");
+    //                break;
+    //            case "2 - Arroz queimado":
+    //                Console.WriteLine("Credo, arroz queimado? Que paladar horrível!");
+    //                break;
+    //            case "3":
+    //                Console.WriteLine("Que mal gosto de mer#$@, feijão salgado? affff!");
+    //                break;
+    //            default:
+    //                Console.WriteLine("Essa opção não existe"); break;
+    //        }
+    //    }
+    //====================================================================================
+
     //using System;
 
     //class Login
@@ -2830,6 +2897,166 @@ namespace C_Sharp_Exercicios
     //        }
 
     //    }
+
+    //}
+
+    //========================================================================
+
+    //using System;
+
+    //class AulaDiego
+    //{
+    //    static void Main()
+    //    {
+    //        int num1 = 3000;
+    //        int num2= 0;
+
+    //        try
+    //        {
+    //            Console.WriteLine(num1 / num2);
+    //        }
+    //        catch (Exception e)//Exception é a exceção genérica
+    //        {
+    //            Console.WriteLine("ERRO: {0}", e.Message);
+    //            Console.WriteLine("EXCEÇÃO: Número {0} dividido por ZERO",num1, e.GetType());
+    //        }
+    //    }
+
+    //}
+    //================================================================
+    //using System;
+
+    //class Login
+    //{
+    //    static void Main()
+    //    {
+    //        //Validar();
+    //        Calculadora();
+
+    //    }
+    //    //metodo validar
+    //    //static void Validar()
+    //    //{
+    //    //    Console.WriteLine("Insira seu login");
+    //    //    string login = Console.ReadLine();
+    //    //    Console.WriteLine("Insira sua senha");
+    //    //    string senha = Console.ReadLine();
+
+    //    //    if (login == "Matheus" & senha == "1111")
+    //    //    {
+    //    //        Console.WriteLine("\nVocê entrou");
+    //    //        Calculadora();
+    //    //    }
+    //    //    else
+    //    //    {
+    //    //        Console.WriteLine("\nVocê não entrou");
+    //    //    }
+    //    //}
+    //    static void Calculadora()
+    //    {
+    //        confusoSobrinho:
+    //        Console.Write("==============================================");
+
+    //        Console.Write("\nEscolha sua operação:  \n" +
+    //                          "1 - Soma\n" +
+    //                          "2 - Subtração\n" +
+    //                          "3 - Multiplicação\n" +
+    //                          "4 - Divisão\n"
+    //                        );
+    //        Console.Write("==============================================\n");
+
+    //        string operacoes = (Console.ReadLine());
+    //        int num1 = 10;
+    //        int num2 = 2;
+    //        switch (operacoes)
+    //        { 
+    //            case "1":
+    //            Console.WriteLine("Ok,Confuso sobrinho, sua resposta é {0}: ", num1 + num2); goto confusoSobrinho;
+    //                break;
+    //        case "2":
+    //            Console.WriteLine("Ok,Confuso sobrinho, sua resposta é {0}: ", num1 - num2); goto confusoSobrinho;
+    //                break;
+    //        case "3":
+    //            Console.WriteLine("Ok,Confuso sobrinho, sua resposta é {0}: ", num1 * num2); goto confusoSobrinho;
+    //                break;
+    //        case "4":
+    //            Console.WriteLine("Ok,Confuso sobrinho, sua resposta é {0}: ", num1 / num2); goto confusoSobrinho;
+    //        default:
+    //                Console.WriteLine("Escolha uma opção válida"); goto confusoSobrinho;
+    //        }
+    //    }
+    //}
+
+    //using System;
+
+    //namespace projeto
+    //{
+    //    class Program
+    //    {
+    //        static void Main(string[] args)
+    //        {
+    //            Inteiros();
+    //        }
+    //        static void Inteiros()
+    //        {
+    //            int diferenca;
+    //            Console.WriteLine("insira o primeiro comando");
+    //            int n1 = int.Parse(Console.ReadLine());
+
+    //            Console.WriteLine("insira o segundo comando");
+    //            int n2 = int.Parse(Console.ReadLine());
+
+    //            if (n1 > n2)
+    //            {
+    //                diferenca = n1 - n2;
+    //                Console.WriteLine("diferença entre o primeiro valor e o segundo valor:{0}", diferenca);
+    //                Console.WriteLine("passou com Verdadeiro");
+    //            }
+    //            else
+    //            {
+
+    //                diferenca = n2 - n1;
+    //                Console.WriteLine($"diferença entre o primeiro valor e o segundo valor {diferenca}");
+    //                Console.WriteLine("passou com Falso");
+    //            }
+
+    //        }
+    //    }
+    //}
+
+    //class Cargo
+    //{
+    //    static void Main()
+    //    {
+    //        double salario = 0;
+    //        double salarioNovo = 0;
+
+    //        Console.WriteLine("Digite seu salário atual: ");
+    //        salario = double.Parse(Console.ReadLine());
+
+    //        salarioNovo = salario + (salario * 0.15);
+    //        Console.WriteLine("Salário incial do funcionário {0}", salarioNovo);
+    //    }
+    //}
+
+    //class quadrado
+    //{
+    //    static void Main()
+    //    {
+    //        int num = 0;
+    //        int quadrado = 0;
+
+    //        Console.WriteLine("Digite número: ");
+    //        num = int.Parse(Console.ReadLine());
+
+    //        quadrado = num * num;
+
+    //        while (num <= 10)
+    //        {
+    //            Console.WriteLine("O quadrado de {0} é: {1}", num, quadrado);
+    //        }
+    //    }
+    //}
 }
 
 

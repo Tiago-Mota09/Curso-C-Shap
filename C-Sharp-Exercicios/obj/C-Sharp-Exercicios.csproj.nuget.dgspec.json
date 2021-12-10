@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tiago-Mota\\Desktop\\Cursos\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj": {}
+    "C:\\Users\\DELLMINI-EQP0106\\Desktop\\Edesoft-Cursos\\C#\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tiago-Mota\\Desktop\\Cursos\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj": {
+    "C:\\Users\\DELLMINI-EQP0106\\Desktop\\Edesoft-Cursos\\C#\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tiago-Mota\\Desktop\\Cursos\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj",
+        "projectUniqueName": "C:\\Users\\DELLMINI-EQP0106\\Desktop\\Edesoft-Cursos\\C#\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj",
         "projectName": "C-Sharp-Exercicios",
-        "projectPath": "C:\\Users\\Tiago-Mota\\Desktop\\Cursos\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj",
-        "packagesPath": "C:\\Users\\Tiago-Mota\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tiago-Mota\\Desktop\\Cursos\\Curso-C-Shap\\C-Sharp-Exercicios\\obj\\",
+        "projectPath": "C:\\Users\\DELLMINI-EQP0106\\Desktop\\Edesoft-Cursos\\C#\\Curso-C-Shap\\C-Sharp-Exercicios\\C-Sharp-Exercicios.csproj",
+        "packagesPath": "C:\\Users\\DELLMINI-EQP0106\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DELLMINI-EQP0106\\Desktop\\Edesoft-Cursos\\C#\\Curso-C-Shap\\C-Sharp-Exercicios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Tiago-Mota\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELLMINI-EQP0106\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
